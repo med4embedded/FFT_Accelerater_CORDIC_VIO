@@ -9,9 +9,9 @@ Created By : LUCKY (lucky8882041@gmail.com)
 -- LinkedIn : https://www.linkedin.com/in/lucky8882041/
 
 ## Software,Language and FPGA Board Used In this Project
-$ VERILOG HDL
-Xilinx VIVADO 2022.2
-BASYS3 FPGA Board
+* VERILOG HDL
+* Xilinx VIVADO 2022.2
+* BASYS3 FPGA Board
 FFT Hardware Accelerater using CORDIC Algorithm and FPGA Board
 
 In This Project a FFT Accelerater using CORDIC Algorithms has been Created using Verilog Language and a FPGA Board (XILINX BASYS3). a 8-Point FFT can be Performed, it Takes 16 inputs, 8 inputs for Real Part and Another 8 Inputs for Imaginary Part. Each Input are of 16-bit .
