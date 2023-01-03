@@ -9,7 +9,7 @@ Created By : LUCKY (lucky8882041@gmail.com)
 -- LinkedIn : https://www.linkedin.com/in/lucky8882041/
 
 ## Software,Language and FPGA Board Used In this Project
-VERILOG HDL
+$ VERILOG HDL
 Xilinx VIVADO 2022.2
 BASYS3 FPGA Board
 FFT Hardware Accelerater using CORDIC Algorithm and FPGA Board
